@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url(https://cdn.shopify.com/s/files/1/0230/2239/articles/Snowboard_Trick_Terminology_1024x1024.jpg?v=1556396922);
+    background-size: cover;
+    height: 40rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+}
